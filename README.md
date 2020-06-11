@@ -1,13 +1,29 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+## About 
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+Portfolio list and other stuff on recently activities
 
-Oh! I haven't introduced myself...
+## Author
+✔ Eka Prasetia 🤵
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
+</a>
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Tweet-Twitter-blue" alt="Twitter" />
+</a>
 
-I'll meet you over there, can't wait to get started!
+<a href="mailto:ekaone3033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Email" />
+</a>
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+✔ Collection my App
+
+Find example all my [Scratch App](https://twolevel.net) 👉 on working 🛠
+
+✔ Community
+
+I am author for two communities in Indonesia
+- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
+- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
+

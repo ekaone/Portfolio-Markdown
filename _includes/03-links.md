@@ -1,2 +1,2 @@
-[GitHub](https://github.com/ekaone)
-[Eka](https://www.ekaprasetia.com/)
+- [GitHub](https://github.com/ekaone)
+- [Eka](https://www.ekaprasetia.com/)
